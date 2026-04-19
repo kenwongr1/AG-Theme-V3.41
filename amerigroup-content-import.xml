@@ -1,0 +1,928 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- This is a WordPress eXtended RSS file generated for WordPress content import. -->
+<!-- To import this file into WordPress, go to Tools > Import > WordPress. -->
+<rss version="2.0"
+    xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:wp="http://wordpress.org/export/1.2/">
+
+<channel>
+    <title>Amerigroup International</title>
+    <link>https://amerigroupint.net</link>
+    <description>Leading Provider of Zero-Emission Energy Solutions in USA and Mexico</description>
+    <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+    <language>en-US</language>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:base_site_url>https://amerigroupint.net</wp:base_site_url>
+    <wp:base_blog_url>https://amerigroupint.net</wp:base_blog_url>
+
+    <!-- ============================================================
+         AUTHORS
+         ============================================================ -->
+    <wp:author>
+        <wp:author_id>1</wp:author_id>
+        <wp:author_login><![CDATA[admin]]></wp:author_login>
+        <wp:author_email><![CDATA[admin@amerigroupint.net]]></wp:author_email>
+        <wp:author_display_name><![CDATA[Amerigroup Admin]]></wp:author_display_name>
+        <wp:author_first_name><![CDATA[Amerigroup]]></wp:author_first_name>
+        <wp:author_last_name><![CDATA[Admin]]></wp:author_last_name>
+    </wp:author>
+
+    <!-- ============================================================
+         NAVIGATION MENUS
+         ============================================================ -->
+    <wp:term>
+        <wp:term_id>1</wp:term_id>
+        <wp:term_taxonomy>nav_menu</wp:term_taxonomy>
+        <wp:term_slug>primary-menu</wp:term_slug>
+        <wp:term_name><![CDATA[Primary Menu]]></wp:term_name>
+    </wp:term>
+
+    <!-- ============================================================
+         PAGE: HOME (Front Page)
+         ============================================================ -->
+    <item>
+        <title>Home</title>
+        <link>https://amerigroupint.net/</link>
+        <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <guid isPermaLink="false">https://amerigroupint.net/?page_id=1</guid>
+        <description></description>
+        <content:encoded><![CDATA[
+<!-- wp:paragraph -->
+<p>Innovative Solutions for Sustainable Energy Projects and Infrastructure towards carbon neutrality.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":6} -->
+<h6>Leading the Global Energy Transition with Scalable, Science-Driven Innovation</h6>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Amerigroup International stands at the forefront of the clean energy revolution, delivering unparalleled expertise and turnkey solutions in hydrogen production and dispensing, methanol fuel cell power generation and range extenders, renewable energy generation with solar, wind turbines, and innovative water solar solutions, liquefied natural gas (LNG) infrastructure — including onshore regasification terminals, offshore Floating Storage and Regasification Units (FSRU), and international LNG supply logistics — as well as power grid modernization and power plant integration with new energy technologies around the globe.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":6} -->
+<h6>Our Commitment To Progress</h6>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>It's alarming to realize that over 70% of global warming emissions come from the energy sector. Annually, nearly 40 billion tons of carbon dioxide are released into the atmosphere by our global energy systems. As economies around the world continue to grow and energy demands surge, this figure is expected to rise — unless we act decisively to transform how we generate and consume energy.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":6} -->
+<h6>Our Strategy — Advancing Impactful Solutions</h6>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul>
+<li>Shift the narrative to emphasize the scale of the challenge and the comprehensive nature of the solutions required.</li>
+<li>Transform technology by providing a diverse array of affordable, carbon-free energy solutions such as advanced renewables, zero-carbon fuels, carbon capture, next-generation nuclear power, and geothermal energy.</li>
+<li>Evolve business models to incorporate scalable, modular energy systems that can be rapidly deployed anywhere.</li>
+<li>Influence policy to foster the development, demonstration, and widespread adoption of technologies and systems necessary to reach net-zero emissions by midcentury.</li>
+</ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":6} -->
+<h6>Comprehensive Clean Energy Solutions</h6>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul>
+<li>Power Grid Modernization &amp; Power Plant Integration in Mexico</li>
+<li>Renewable Energy Generation: Solar, Wind Turbines &amp; Water Solar Solutions</li>
+<li>Hydrogen Production &amp; Dispensing Systems</li>
+<li>Methanol Fuel Cell Power Generation &amp; Range Extenders</li>
+<li>LNG Onshore Regasification &amp; Infrastructure</li>
+<li>Offshore Floating Storage and Regasification Units (FSRU)</li>
+<li>Overseas LNG Supply Chain Management</li>
+<li>E-Mobility Integration &amp; Commercial Electric Vehicles</li>
+</ul>
+<!-- /wp:list -->
+        ]]></content:encoded>
+        <excerpt:encoded><![CDATA[Pioneering Sustainable Energy Integration and Advanced Clean Technology Solutions. Innovative Solutions for Sustainable Energy Projects and Infrastructure towards carbon neutrality.]]></excerpt:encoded>
+        <wp:post_id>1</wp:post_id>
+        <wp:post_date><![CDATA[2025-04-17 00:00:00]]></wp:post_date>
+        <wp:post_date_gmt><![CDATA[2025-04-17 00:00:00]]></wp:post_date_gmt>
+        <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+        <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+        <wp:post_name><![CDATA[home]]></wp:post_name>
+        <wp:status><![CDATA[publish]]></wp:status>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>0</wp:menu_order>
+        <wp:post_type><![CDATA[page]]></wp:post_type>
+        <wp:post_password><![CDATA[]]></wp:post_password>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+            <wp:meta_value><![CDATA[front-page.php]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+            <wp:meta_value><![CDATA[Leading Provider of Zero-Emission Energy Solutions in USA and Mexico | Amerigroup]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+            <wp:meta_value><![CDATA[Amerigroup International delivers turnkey clean energy solutions: hydrogen systems, LNG infrastructure, renewable energy, EV conversion, and power grid modernization across the Americas.]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+
+    <!-- ============================================================
+         PAGE: ABOUT US
+         ============================================================ -->
+    <item>
+        <title>About Us</title>
+        <link>https://amerigroupint.net/about-us</link>
+        <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <guid isPermaLink="false">https://amerigroupint.net/?page_id=2</guid>
+        <description></description>
+        <content:encoded><![CDATA[
+<!-- wp:heading {"level":4} -->
+<h4>Our Mission</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>At Amerigroup, we are dedicated to leading the transition to clean energy by providing zero-emission solutions for transportation and energy production. Our mission is to reduce greenhouse gas emissions, improve the quality of energy supply, and support sustainable regional development.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>Our History</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Amerigroup has grown from a regional LNG transporter to a global leader in green energy solutions. Over the past few decades, we have expanded our expertise to include hydrogen production, power grid modernization projects, and advanced clean energy infrastructure, consistently pushing the boundaries of innovation and sustainability. This legacy of growth fuels our commitment to meet today's climate and energy challenges with proven, integrated, and forward-thinking solutions.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Amerigroup envisions a future where clean energy systems are seamlessly integrated across sectors, enabling sustainable industrial growth, resilient communities, and zero-emission transportation networks. Through relentless innovation, robust partnerships, and uncompromising operational excellence, we empower clients and governments to lead the global climate agenda.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>Our Values</h4>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":6} -->
+<h6>Innovation</h6>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Continuously pursuing new technologies and solutions.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":6} -->
+<h6>Sustainability</h6>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Committed to reducing environmental impact and promoting clean energy.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":6} -->
+<h6>Regional Development</h6>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Enhancing local economies through sustainable energy projects and infrastructure.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":6} -->
+<h6>Excellence</h6>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Striving for the highest standards in all our operations.</p>
+<!-- /wp:paragraph -->
+        ]]></content:encoded>
+        <excerpt:encoded><![CDATA[At Amerigroup, we are dedicated to leading the transition to clean energy by providing zero-emission solutions for transportation and energy production.]]></excerpt:encoded>
+        <wp:post_id>2</wp:post_id>
+        <wp:post_date><![CDATA[2025-04-17 00:00:00]]></wp:post_date>
+        <wp:post_date_gmt><![CDATA[2025-04-17 00:00:00]]></wp:post_date_gmt>
+        <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+        <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+        <wp:post_name><![CDATA[about-us]]></wp:post_name>
+        <wp:status><![CDATA[publish]]></wp:status>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>1</wp:menu_order>
+        <wp:post_type><![CDATA[page]]></wp:post_type>
+        <wp:post_password><![CDATA[]]></wp:post_password>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+            <wp:meta_value><![CDATA[page-about-us.php]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+            <wp:meta_value><![CDATA[Leading the Transition to Clean Energy Solutions | Amerigroup]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+            <wp:meta_value><![CDATA[Amerigroup International leads the global transition to clean energy through zero-emission solutions, innovative hydrogen technology, and sustainable energy infrastructure development.]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+
+    <!-- ============================================================
+         PAGE: TECHNOLOGY SOLUTION
+         ============================================================ -->
+    <item>
+        <title>Technology Solution</title>
+        <link>https://amerigroupint.net/technology-solution</link>
+        <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <guid isPermaLink="false">https://amerigroupint.net/?page_id=3</guid>
+        <description></description>
+        <content:encoded><![CDATA[
+<!-- wp:heading -->
+<h2>Renewable Energy Generation: Solar, Wind Turbines &amp; Water Solar Solutions</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Amerigroup integrates cutting-edge solar photovoltaic systems, utility-scale wind turbines, and innovative water solar solutions such as floating solar arrays to maximize clean energy production. These renewables are designed to complement our portfolio, providing scalable, flexible power generation that supports grid stability and complements hydrogen and methanol fuel cell systems for a balanced, sustainable energy mix.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Hydrogen Production &amp; Dispensing Systems</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Harnessing cutting-edge electrolysis and blue hydrogen technologies with carbon capture, Amerigroup designs and deploys modular, scalable hydrogen production facilities. Our hydrogen refueling stations are engineered for industrial, transportation, and power generation applications — empowering the shift towards a zero-carbon hydrogen economy.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Methanol Fuel Cell Power Generation &amp; Range Extenders</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>We deliver industry-leading methanol fuel cell generators and range extender systems, providing clean, reliable power for off-grid locations, emergency backup, and electric mobility. Our innovative methanol solutions combine efficiency, portability, and environmental performance, enabling seamless energy access in diverse operational contexts.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Power Grid Modernization &amp; Power Plant Integration in Mexico</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>With extensive experience in Mexico's energy sector, Amerigroup spearheads power grid modernization projects that incorporate advanced clean energy technologies. Our services include integration of hydrogen and methanol fuel cells, renewables, and energy storage solutions into existing and new power plants, enabling reliable, flexible, and low-carbon electricity generation.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>E-Mobility Integration &amp; Commercial Electric Vehicles</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Complementing our clean fuel technologies, Amerigroup champions the electrification of transport through comprehensive e-mobility solutions. This includes advanced electric vehicle (EV) fleets, commercial electric trucks, and cutting-edge hydrogen fuel cell vehicles, supported by scalable EV charging infrastructure.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Advanced Linear Generator Technology</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>At the forefront of sustainable energy generation, this technology converts mechanical energy directly into electrical power with minimal moving parts. By employing a linear motion mechanism rather than traditional rotating components, this generator offers enhanced efficiency, longer operational lifespans, and greater reliability.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Hydrogen Injection Reactor</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>A cutting-edge system designed to enhance fuel efficiency and reduce emissions in transport units by using only water as the source for hydrogen production. The reactor utilizes electrolysis to generate hydrogen on-demand, which is directly injected into the engine's combustion chamber.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>LNG Onshore Regasification &amp; Infrastructure</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Amerigroup operates state-of-the-art onshore LNG regasification terminals designed for optimal throughput, safety, and integration with downstream gas networks. Our infrastructure services encompass LNG storage, vaporization, pipeline injection, and comprehensive logistics.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Offshore Floating Storage and Regasification Units (FSRU)</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Our advanced offshore FSRU solutions offer agile, cost-effective alternatives to traditional land-based terminals. Strategically deployed in ports and coastal hubs worldwide, Amerigroup's FSRUs accelerate LNG import capacity with minimal environmental footprint and rapid commissioning timelines.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Overseas LNG Supply Chain Management</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Amerigroup ensures end-to-end LNG supply chain excellence from international procurement, marine transportation, and cargo handling to distribution and delivery underpinned by rigorous safety standards and real-time monitoring systems.</p>
+<!-- /wp:paragraph -->
+        ]]></content:encoded>
+        <excerpt:encoded><![CDATA[Innovative solutions for sustainable energy generation and fuel efficiency — hydrogen, LNG, renewables, e-mobility, and power grid modernization.]]></excerpt:encoded>
+        <wp:post_id>3</wp:post_id>
+        <wp:post_date><![CDATA[2025-04-17 00:00:00]]></wp:post_date>
+        <wp:post_date_gmt><![CDATA[2025-04-17 00:00:00]]></wp:post_date_gmt>
+        <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+        <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+        <wp:post_name><![CDATA[technology-solution]]></wp:post_name>
+        <wp:status><![CDATA[publish]]></wp:status>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>2</wp:menu_order>
+        <wp:post_type><![CDATA[page]]></wp:post_type>
+        <wp:post_password><![CDATA[]]></wp:post_password>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+            <wp:meta_value><![CDATA[page-technology-solution.php]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+            <wp:meta_value><![CDATA[Innovative Solutions for Sustainable Energy Generation and Fuel Efficiency | Amerigroup]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+            <wp:meta_value><![CDATA[Explore Amerigroup's technology solutions: hydrogen production, LNG infrastructure, FSRU, methanol fuel cells, renewable energy, e-mobility, and advanced linear generators.]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+
+    <!-- ============================================================
+         PAGE: PROJECTS
+         ============================================================ -->
+    <item>
+        <title>Projects</title>
+        <link>https://amerigroupint.net/projects</link>
+        <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <guid isPermaLink="false">https://amerigroupint.net/?page_id=4</guid>
+        <description></description>
+        <content:encoded><![CDATA[
+<!-- wp:heading {"level":1} -->
+<h1>Sustainability Solutions</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Innovative solutions to Zero-emission energy, efficient infrastructure, advanced water treatment, hydrogen and ammonia production, and power grid enhancements for environmental protection.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Solar and Wind Power Generation</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Amerigroup is at the forefront of integrating renewable energy sources into our clean energy solutions. Our solar and wind power generation projects are designed to harness the abundant natural resources available, converting them into sustainable electricity. This electricity is then used to produce hydrogen and ammonia, creating a continuous cycle of clean energy production.</p>
+<!-- /wp:paragraph -->
+<!-- wp:list -->
+<ul>
+<li><strong>Solar Power Plants</strong>: Developing and managing large-scale solar power facilities that convert sunlight into electricity.</li>
+<li><strong>Wind Farms</strong>: Establishing and operating wind farms that capture wind energy and convert it into electrical power.</li>
+<li><strong>Electrolysis for Hydrogen Production</strong>: Using renewable electricity to split water into hydrogen and oxygen, providing a sustainable source of hydrogen.</li>
+<li><strong>Ammonia Production</strong>: Utilizing hydrogen produced from renewable sources to create ammonia, a key component for energy storage and agricultural applications.</li>
+</ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":6} -->
+<h6>Green Energy Solutions</h6>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong>Hydrogen Development</strong>: Leading in zero-emission hydrogen generation and production. Our state-of-the-art facilities and research initiatives focus on optimizing hydrogen production processes to meet growing demand.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p><strong>Hydrogen and Ammonia Production</strong>: Utilizing advanced technology for sustainable energy solutions. We produce high-purity hydrogen and ammonia for industrial, transportation, and energy storage applications.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p><strong>Power Grid Projects</strong>: Enhancing Mexico's national power grid with innovative engineering, ensuring stable and efficient energy distribution.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>EV Conversion</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>We specialize in the conversion of Class 5 and 8 trucks from diesel to electric using cutting-edge e-axle technology. Our EV conversion services help reduce diesel consumption and pollution while significantly increasing travel range, up to 1,300 miles. Our notable clients include: <strong>Staples, UPS, FedEx, Kenworth</strong>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>LNG &amp; LPG Infrastructure and Logistics</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Amerigroup is a trusted partner in clean fuel mobility, energy transition logistics, and regasification infrastructure across the Americas and beyond. Our long-standing presence in U.S.–Mexico LNG and LPG corridors provides the foundation for scalable, reliable energy solutions.</p>
+<!-- /wp:paragraph -->
+<!-- wp:list -->
+<ul>
+<li><strong>LNG and LPG Transportation</strong>: End-to-end transport solutions by ship, truck, ISO container, and pipeline.</li>
+<li><strong>Onshore Regasification</strong>: Localized conversion of LNG back to natural gas for utilities, factories, and power grids.</li>
+<li><strong>FSRU</strong>: Rapid-deployment offshore terminals providing LNG import and regas capacity without land-based infrastructure.</li>
+<li><strong>Marine Bunkering</strong>: Supplying LNG as a cleaner fuel for maritime fleets.</li>
+<li><strong>Comprehensive LNG Chain Management</strong>: From export and storage to regasification and dispatch.</li>
+<li><strong>Small-Scale Distribution</strong>: Delivering LNG and LPG to off-grid, rural, or remote industrial sites.</li>
+</ul>
+<!-- /wp:list -->
+<!-- wp:paragraph -->
+<p><em>The U.S. Department of Energy (DOE) has approved AmerigroupLNG to export approximately 4.6 billion cubic feet (Bcf) of liquefied natural gas (LNG) from the United States.</em></p>
+<!-- /wp:paragraph -->
+        ]]></content:encoded>
+        <excerpt:encoded><![CDATA[Innovative sustainability solutions: zero-emission energy, hydrogen and ammonia production, EV conversion, LNG/LPG infrastructure, and power grid enhancements.]]></excerpt:encoded>
+        <wp:post_id>4</wp:post_id>
+        <wp:post_date><![CDATA[2025-04-17 00:00:00]]></wp:post_date>
+        <wp:post_date_gmt><![CDATA[2025-04-17 00:00:00]]></wp:post_date_gmt>
+        <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+        <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+        <wp:post_name><![CDATA[projects]]></wp:post_name>
+        <wp:status><![CDATA[publish]]></wp:status>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>3</wp:menu_order>
+        <wp:post_type><![CDATA[page]]></wp:post_type>
+        <wp:post_password><![CDATA[]]></wp:post_password>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+            <wp:meta_value><![CDATA[page-projects.php]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+            <wp:meta_value><![CDATA[LNG, LPG Transportation &amp; Sustainability Projects | Amerigroup]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+            <wp:meta_value><![CDATA[Amerigroup's projects span solar and wind power, hydrogen production, EV truck conversion, LNG/LPG infrastructure, and Mexico power grid modernization.]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+
+    <!-- ============================================================
+         PAGE: OUR TEAM
+         ============================================================ -->
+    <item>
+        <title>Our Team</title>
+        <link>https://amerigroupint.net/our-team</link>
+        <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <guid isPermaLink="false">https://amerigroupint.net/?page_id=5</guid>
+        <description></description>
+        <content:encoded><![CDATA[
+<!-- wp:paragraph -->
+<p><em>Our team thrives on individuality and innovation. We bring firsthand experience from collaborations with industry-leading clients and premier business partners, underscoring our commitment to excellence — from engineering and project management to business development and operations — ensuring every unique perspective drives our success in advancing sustainable energy solutions.</em></p>
+<!-- /wp:paragraph -->
+        ]]></content:encoded>
+        <excerpt:encoded><![CDATA[Meet the Amerigroup International leadership team — experts in energy, finance, engineering, and business development driving the global clean energy transition.]]></excerpt:encoded>
+        <wp:post_id>5</wp:post_id>
+        <wp:post_date><![CDATA[2025-04-17 00:00:00]]></wp:post_date>
+        <wp:post_date_gmt><![CDATA[2025-04-17 00:00:00]]></wp:post_date_gmt>
+        <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+        <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+        <wp:post_name><![CDATA[our-team]]></wp:post_name>
+        <wp:status><![CDATA[publish]]></wp:status>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>4</wp:menu_order>
+        <wp:post_type><![CDATA[page]]></wp:post_type>
+        <wp:post_password><![CDATA[]]></wp:post_password>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+            <wp:meta_value><![CDATA[page-our-team.php]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+            <wp:meta_value><![CDATA[Our Team | Amerigroup International]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+            <wp:meta_value><![CDATA[Meet the global leadership team at Amerigroup International — experienced professionals driving innovation in clean energy, LNG, hydrogen, and sustainable infrastructure.]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+
+    <!-- ============================================================
+         PAGE: OUR PARTNERS
+         ============================================================ -->
+    <item>
+        <title>Our Partners</title>
+        <link>https://amerigroupint.net/our-partners</link>
+        <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <guid isPermaLink="false">https://amerigroupint.net/?page_id=6</guid>
+        <description></description>
+        <content:encoded><![CDATA[
+<!-- wp:heading {"level":4} -->
+<h4>Our Collaboration</h4>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><em>Our team proudly reflects on its rich history of professional experience. The logos above represent the respected organizations where our team members have previously contributed their expertise. These logos are the registered trademarks of their respective companies and are displayed solely to showcase our collective background.</em></p>
+<!-- /wp:paragraph -->
+        ]]></content:encoded>
+        <excerpt:encoded><![CDATA[Amerigroup International's network of global partners and collaborators across clean energy, LNG, hydrogen, e-mobility, and power infrastructure sectors.]]></excerpt:encoded>
+        <wp:post_id>6</wp:post_id>
+        <wp:post_date><![CDATA[2025-04-17 00:00:00]]></wp:post_date>
+        <wp:post_date_gmt><![CDATA[2025-04-17 00:00:00]]></wp:post_date_gmt>
+        <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+        <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+        <wp:post_name><![CDATA[our-partners]]></wp:post_name>
+        <wp:status><![CDATA[publish]]></wp:status>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>5</wp:menu_order>
+        <wp:post_type><![CDATA[page]]></wp:post_type>
+        <wp:post_password><![CDATA[]]></wp:post_password>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+            <wp:meta_value><![CDATA[page-our-partners.php]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+            <wp:meta_value><![CDATA[Our Partners &amp; Collaborators | Amerigroup International]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+            <wp:meta_value><![CDATA[Amerigroup International partners with leading global organizations in clean energy, LNG, hydrogen, e-mobility, and sustainable power infrastructure.]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+
+    <!-- ============================================================
+         TEAM MEMBERS (Custom Post Type: ag_team)
+         ============================================================ -->
+    <item>
+        <title>Mr. Gerardo Payán Ramos</title>
+        <link>https://amerigroupint.net/team/gerardo-payan-ramos</link>
+        <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <guid isPermaLink="false">https://amerigroupint.net/?post_type=ag_team&amp;p=101</guid>
+        <description></description>
+        <content:encoded><![CDATA[Mr. Gerardo Payán Ramos serves as President in Amerigroup International, Founder and CEO of AmerigroupLNG, as well as the founder of AmeriGas Propane S.A. de C.V. in Mexico. With over 15 years in the energy industry, he is steering these companies toward becoming leading global providers of integrated energy solutions. His journey began as a consultant for Coca-Cola bottling companies across Latin America, where he honed his skills in electromechanical systems and quality control. Specializing in government relations and strategic partnerships between Mexico and the USA, Gerardo has become an authority in emerging energy fields — ranging from LNG and hydrogen to solar, wind, and EV conversion. His innovative approach is further demonstrated by patents for breakthrough technologies, including an emergency alert system and a 911 location-sharing app.]]></content:encoded>
+        <excerpt:encoded><![CDATA[President, Amerigroup International. Founder & CEO, AmerigroupLNG. Founder of AmeriGas Propane S.A. de C.V. 15+ years in international energy.]]></excerpt:encoded>
+        <wp:post_id>101</wp:post_id>
+        <wp:post_date><![CDATA[2025-04-17 00:00:00]]></wp:post_date>
+        <wp:post_date_gmt><![CDATA[2025-04-17 00:00:00]]></wp:post_date_gmt>
+        <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+        <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+        <wp:post_name><![CDATA[gerardo-payan-ramos]]></wp:post_name>
+        <wp:status><![CDATA[publish]]></wp:status>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>1</wp:menu_order>
+        <wp:post_type><![CDATA[ag_team]]></wp:post_type>
+        <wp:post_password><![CDATA[]]></wp:post_password>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_ag_team_title]]></wp:meta_key>
+            <wp:meta_value><![CDATA[President, Amerigroup International | President & Founder, AmerigroupLNG | Founder of AmeriGas Propane S.A. de C.V.]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_thumbnail_url]]></wp:meta_key>
+            <wp:meta_value><![CDATA[https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=372,fit=crop/ALpeJ1OkE5HqbP9Z/gerardo-AMq1wbMMPPCw9jMO.png]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+
+    <item>
+        <title>Mr. Ken Wong</title>
+        <link>https://amerigroupint.net/team/ken-wong</link>
+        <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <guid isPermaLink="false">https://amerigroupint.net/?post_type=ag_team&amp;p=102</guid>
+        <description></description>
+        <content:encoded><![CDATA[Mr. Ken Wong, a Canadian-Chinese entrepreneur, serves as Corporate Vice President and Co-Founder of Amerigroup International, where he directs the company's global strategy and operations. His entrepreneurial journey spans commodity trading and mining across Canada, the USA, and Mexico. Notably, in 2012, he became the first Canadian-Chinese exporter of iron ore from Mexico to China — a milestone recognized by SGS. Ken's business interests also encompass mergers and acquisitions, capital investment, new energy, real estate, agriculture, supply chain management, and industrial park development. Since 2016, he has played a significant role in Belt and Road projects across Africa, contributing to initiatives in Gabon, Guinea, Cameroon, South Africa, and Morocco. Educated in both Computer Engineering and International Trade Business, Ken is widely respected for his leadership and strategic acumen in global business.]]></content:encoded>
+        <excerpt:encoded><![CDATA[Corporate Vice President & Co-Founder. Canadian-Chinese entrepreneur with expertise in commodity trading, energy, and Belt and Road development.]]></excerpt:encoded>
+        <wp:post_id>102</wp:post_id>
+        <wp:post_date><![CDATA[2025-04-17 00:00:00]]></wp:post_date>
+        <wp:post_date_gmt><![CDATA[2025-04-17 00:00:00]]></wp:post_date_gmt>
+        <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+        <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+        <wp:post_name><![CDATA[ken-wong]]></wp:post_name>
+        <wp:status><![CDATA[publish]]></wp:status>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>2</wp:menu_order>
+        <wp:post_type><![CDATA[ag_team]]></wp:post_type>
+        <wp:post_password><![CDATA[]]></wp:post_password>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_ag_team_title]]></wp:meta_key>
+            <wp:meta_value><![CDATA[Corporate Vice President & Co-Founder]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_thumbnail_url]]></wp:meta_key>
+            <wp:meta_value><![CDATA[https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=498,fit=crop/ALpeJ1OkE5HqbP9Z/2a558d56-d2fc-4d43-bfb4-919e12915567_1_105_c-Y4LD2xoO5ESJDEXB.jpeg]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+
+    <item>
+        <title>Mr. James Wang</title>
+        <link>https://amerigroupint.net/team/james-wang</link>
+        <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <guid isPermaLink="false">https://amerigroupint.net/?post_type=ag_team&amp;p=103</guid>
+        <description></description>
+        <content:encoded><![CDATA[Mr. James Wang, CEO for China at Amerigroup International, steers the company's strategic vision and operations in the Chinese market. With over 15 years of experience at Fortune 500 companies and leading Chinese corporations, he excels in managing government relations and partnering with state-owned enterprises. He has overseen transactions exceeding $10 billion and played a key role in Belt and Road projects across several African countries. A graduate in economics and management from Moscow State University, James is also an active leader in the Hebei region, China, recognized for his strategic business expertise.]]></content:encoded>
+        <excerpt:encoded><![CDATA[CEO (China). 15+ years at Fortune 500 companies. Oversaw $10B+ in transactions. Belt and Road specialist and state-owned enterprise relations expert.]]></excerpt:encoded>
+        <wp:post_id>103</wp:post_id>
+        <wp:post_date><![CDATA[2025-04-17 00:00:00]]></wp:post_date>
+        <wp:post_date_gmt><![CDATA[2025-04-17 00:00:00]]></wp:post_date_gmt>
+        <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+        <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+        <wp:post_name><![CDATA[james-wang]]></wp:post_name>
+        <wp:status><![CDATA[publish]]></wp:status>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>3</wp:menu_order>
+        <wp:post_type><![CDATA[ag_team]]></wp:post_type>
+        <wp:post_password><![CDATA[]]></wp:post_password>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_ag_team_title]]></wp:meta_key>
+            <wp:meta_value><![CDATA[CEO (China)]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_thumbnail_url]]></wp:meta_key>
+            <wp:meta_value><![CDATA[https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=379,fit=crop/ALpeJ1OkE5HqbP9Z/james-mp8Wovy5vRhoO2zJ.png]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+
+    <item>
+        <title>Mr. Roberto Compeán Woodworth</title>
+        <link>https://amerigroupint.net/team/roberto-compean-woodworth</link>
+        <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <guid isPermaLink="false">https://amerigroupint.net/?post_type=ag_team&amp;p=104</guid>
+        <description></description>
+        <content:encoded><![CDATA[Mr. Roberto Compeán Woodworth, CFO of Amerigroup International for the Mexico region and co-founder of AmerigroupLNG, drives the company's financial strategy with a strong background in both private and public sectors. His leadership experience includes serving as Chief Sales Officer at Mexico's National Lottery and as CFO for Bestel and Cablevision Monterrey — key Televisa subsidiaries. His tenure at BBVA Bank, including advanced training in Madrid, further solidified his expertise in finance. Roberto earned his Bachelor's Degree in Business Administration from ITAM University in Mexico.]]></content:encoded>
+        <excerpt:encoded><![CDATA[CFO (Mexico), Amerigroup International. CFO & Co-founder, AmerigroupLNG. Former CSO at Mexico National Lottery. BBVA Bank alumnus. ITAM graduate.]]></excerpt:encoded>
+        <wp:post_id>104</wp:post_id>
+        <wp:post_date><![CDATA[2025-04-17 00:00:00]]></wp:post_date>
+        <wp:post_date_gmt><![CDATA[2025-04-17 00:00:00]]></wp:post_date_gmt>
+        <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+        <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+        <wp:post_name><![CDATA[roberto-compean-woodworth]]></wp:post_name>
+        <wp:status><![CDATA[publish]]></wp:status>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>4</wp:menu_order>
+        <wp:post_type><![CDATA[ag_team]]></wp:post_type>
+        <wp:post_password><![CDATA[]]></wp:post_password>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_ag_team_title]]></wp:meta_key>
+            <wp:meta_value><![CDATA[CFO (Mexico), Amerigroup International | CFO & Co-founder, AmerigroupLNG]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_thumbnail_url]]></wp:meta_key>
+            <wp:meta_value><![CDATA[https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=372,fit=crop/ALpeJ1OkE5HqbP9Z/robert-YKb3v622g7cVO74g.png]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+
+    <item>
+        <title>Mr. Peter Pang</title>
+        <link>https://amerigroupint.net/team/peter-pang</link>
+        <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <guid isPermaLink="false">https://amerigroupint.net/?post_type=ag_team&amp;p=105</guid>
+        <description></description>
+        <content:encoded><![CDATA[Mr. Peter Pang, CFO of Amerigroup International, is a distinguished financial leader with over 30 years of industry experience. As a former partner at KPMG Vancouver and a Chartered Professional Accountant in Canada, he brings deep expertise in auditing, financial management, and mergers and acquisitions. Peter has been instrumental in steering major corporate mergers and guiding companies through complex financial restructuring and integration across various sectors. His strategic leadership in managing multi-billion-dollar enterprises has earned him a global reputation for enhancing profitability and delivering incisive financial insights.]]></content:encoded>
+        <excerpt:encoded><![CDATA[CFO (CGA/CFA) Global. Former KPMG Vancouver Partner. Chartered Professional Accountant. 30+ years in financial leadership and M&A.]]></excerpt:encoded>
+        <wp:post_id>105</wp:post_id>
+        <wp:post_date><![CDATA[2025-04-17 00:00:00]]></wp:post_date>
+        <wp:post_date_gmt><![CDATA[2025-04-17 00:00:00]]></wp:post_date_gmt>
+        <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+        <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+        <wp:post_name><![CDATA[peter-pang]]></wp:post_name>
+        <wp:status><![CDATA[publish]]></wp:status>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>5</wp:menu_order>
+        <wp:post_type><![CDATA[ag_team]]></wp:post_type>
+        <wp:post_password><![CDATA[]]></wp:post_password>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_ag_team_title]]></wp:meta_key>
+            <wp:meta_value><![CDATA[CFO (CGA/CFA) Global]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_thumbnail_url]]></wp:meta_key>
+            <wp:meta_value><![CDATA[https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=384,fit=crop/ALpeJ1OkE5HqbP9Z/peter-d951PKBvrNHxeQ8g.png]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+
+    <item>
+        <title>Mr. Victor Manuel Villanueva Rivera</title>
+        <link>https://amerigroupint.net/team/victor-manuel-villanueva-rivera</link>
+        <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <guid isPermaLink="false">https://amerigroupint.net/?post_type=ag_team&amp;p=106</guid>
+        <description></description>
+        <content:encoded><![CDATA[Mr. Victor Manuel Villanueva Rivera is a seasoned executive with over 40 years in the automotive industry, currently serving as Managing Director in Mexico. His impressive career includes leadership roles as Managing Director at Jetour Motors and FIAT Mexico, Sales Director at Hertz-AVASA, and CEO & Managing Director of Mitsubishi Motors Mexico. With deep expertise in strategic planning, business development, quality assurance, and distributor network optimization, he has been instrumental in launching automotive brands, boosting sales, and enhancing service operations across Mexico. He holds a Master's degree in Quality Engineering and a Bachelor's degree in Industrial Engineering.]]></content:encoded>
+        <excerpt:encoded><![CDATA[Managing Director. 40+ years in automotive industry. Former MD at FIAT Mexico, Jetour Motors, and Mitsubishi Motors Mexico. MSc Quality Engineering.]]></excerpt:encoded>
+        <wp:post_id>106</wp:post_id>
+        <wp:post_date><![CDATA[2025-04-17 00:00:00]]></wp:post_date>
+        <wp:post_date_gmt><![CDATA[2025-04-17 00:00:00]]></wp:post_date_gmt>
+        <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+        <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+        <wp:post_name><![CDATA[victor-manuel-villanueva-rivera]]></wp:post_name>
+        <wp:status><![CDATA[publish]]></wp:status>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>6</wp:menu_order>
+        <wp:post_type><![CDATA[ag_team]]></wp:post_type>
+        <wp:post_password><![CDATA[]]></wp:post_password>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_ag_team_title]]></wp:meta_key>
+            <wp:meta_value><![CDATA[Managing Director]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_thumbnail_url]]></wp:meta_key>
+            <wp:meta_value><![CDATA[https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=372,fit=crop/ALpeJ1OkE5HqbP9Z/victor-A1aPlwDLWMu8kvkD.png]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+
+    <item>
+        <title>Ms. Vanessa Muñoz</title>
+        <link>https://amerigroupint.net/team/vanessa-munoz</link>
+        <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <guid isPermaLink="false">https://amerigroupint.net/?post_type=ag_team&amp;p=107</guid>
+        <description></description>
+        <content:encoded><![CDATA[Ms. Vanessa Muñoz acts in a key role in developing new business opportunities. She has successfully owned and operated various businesses in Mexico and the U.S., achieving top client satisfaction and awards. Previously, she was Real Estate Commercial and Leasing Manager for Liverpool. Before that, at Alsea, she facilitated new business development and strategic negotiations with major developers. Vanessa holds a Bachelor's Degree in International Relations from Tecnologico de Monterrey University in Mexico.]]></content:encoded>
+        <excerpt:encoded><![CDATA[Business Development Director. Former Real Estate Commercial Manager at Liverpool. Alsea alumna. Bachelor's in International Relations, Tec de Monterrey.]]></excerpt:encoded>
+        <wp:post_id>107</wp:post_id>
+        <wp:post_date><![CDATA[2025-04-17 00:00:00]]></wp:post_date>
+        <wp:post_date_gmt><![CDATA[2025-04-17 00:00:00]]></wp:post_date_gmt>
+        <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+        <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+        <wp:post_name><![CDATA[vanessa-munoz]]></wp:post_name>
+        <wp:status><![CDATA[publish]]></wp:status>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>7</wp:menu_order>
+        <wp:post_type><![CDATA[ag_team]]></wp:post_type>
+        <wp:post_password><![CDATA[]]></wp:post_password>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_ag_team_title]]></wp:meta_key>
+            <wp:meta_value><![CDATA[Business Development Director]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_thumbnail_url]]></wp:meta_key>
+            <wp:meta_value><![CDATA[https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=372,fit=crop/ALpeJ1OkE5HqbP9Z/vanessa-mePxXv6jlrub690Q.png]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+
+    <item>
+        <title>Ms. Liviere Galván</title>
+        <link>https://amerigroupint.net/team/liviere-galvan</link>
+        <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <guid isPermaLink="false">https://amerigroupint.net/?post_type=ag_team&amp;p=108</guid>
+        <description></description>
+        <content:encoded><![CDATA[Ms. Liviere Galván has been instrumental at Amerigroup, transitioning from Sales Manager to her current role as Commercial Director. In this senior leadership position, she drives the company's sales strategy, spearheads new business development, and expands its international client base. Prior to joining Amerigroup, she served as Director of Sales and Marketing at Dronamex for over five years. Liviere holds both a Master of Science and a Bachelor's degree in Marketing.]]></content:encoded>
+        <excerpt:encoded><![CDATA[Commercial Director. Former Director of Sales & Marketing at Dronamex. MSc and Bachelor's in Marketing. International business development specialist.]]></excerpt:encoded>
+        <wp:post_id>108</wp:post_id>
+        <wp:post_date><![CDATA[2025-04-17 00:00:00]]></wp:post_date>
+        <wp:post_date_gmt><![CDATA[2025-04-17 00:00:00]]></wp:post_date_gmt>
+        <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+        <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+        <wp:post_name><![CDATA[liviere-galvan]]></wp:post_name>
+        <wp:status><![CDATA[publish]]></wp:status>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>8</wp:menu_order>
+        <wp:post_type><![CDATA[ag_team]]></wp:post_type>
+        <wp:post_password><![CDATA[]]></wp:post_password>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_ag_team_title]]></wp:meta_key>
+            <wp:meta_value><![CDATA[Commercial Director]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_thumbnail_url]]></wp:meta_key>
+            <wp:meta_value><![CDATA[https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=372,fit=crop/ALpeJ1OkE5HqbP9Z/livy-Awv45MBG40IBBwLM.png]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+
+    <!-- ============================================================
+         NAV MENU ITEMS
+         ============================================================ -->
+    <item>
+        <title>Home</title>
+        <wp:post_id>201</wp:post_id>
+        <wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+        <wp:status><![CDATA[publish]]></wp:status>
+        <wp:menu_order>1</wp:menu_order>
+        <wp:postmeta><wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key><wp:meta_value><![CDATA[post_type]]></wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key><wp:meta_value><![CDATA[page]]></wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key><wp:meta_value><![CDATA[1]]></wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key><wp:meta_value><![CDATA[]]></wp:meta_value></wp:postmeta>
+        <category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+    </item>
+    <item>
+        <title>About Us</title>
+        <wp:post_id>202</wp:post_id>
+        <wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+        <wp:status><![CDATA[publish]]></wp:status>
+        <wp:menu_order>2</wp:menu_order>
+        <wp:postmeta><wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key><wp:meta_value><![CDATA[post_type]]></wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key><wp:meta_value><![CDATA[page]]></wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key><wp:meta_value><![CDATA[2]]></wp:meta_value></wp:postmeta>
+        <category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+    </item>
+    <item>
+        <title>Technology Solution</title>
+        <wp:post_id>203</wp:post_id>
+        <wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+        <wp:status><![CDATA[publish]]></wp:status>
+        <wp:menu_order>3</wp:menu_order>
+        <wp:postmeta><wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key><wp:meta_value><![CDATA[post_type]]></wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key><wp:meta_value><![CDATA[page]]></wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key><wp:meta_value><![CDATA[3]]></wp:meta_value></wp:postmeta>
+        <category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+    </item>
+    <item>
+        <title>Projects</title>
+        <wp:post_id>204</wp:post_id>
+        <wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+        <wp:status><![CDATA[publish]]></wp:status>
+        <wp:menu_order>4</wp:menu_order>
+        <wp:postmeta><wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key><wp:meta_value><![CDATA[post_type]]></wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key><wp:meta_value><![CDATA[page]]></wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key><wp:meta_value><![CDATA[4]]></wp:meta_value></wp:postmeta>
+        <category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+    </item>
+    <item>
+        <title>Our Team</title>
+        <wp:post_id>205</wp:post_id>
+        <wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+        <wp:status><![CDATA[publish]]></wp:status>
+        <wp:menu_order>5</wp:menu_order>
+        <wp:postmeta><wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key><wp:meta_value><![CDATA[post_type]]></wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key><wp:meta_value><![CDATA[page]]></wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key><wp:meta_value><![CDATA[5]]></wp:meta_value></wp:postmeta>
+        <category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+    </item>
+    <item>
+        <title>Our Partners</title>
+        <wp:post_id>206</wp:post_id>
+        <wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+        <wp:status><![CDATA[publish]]></wp:status>
+        <wp:menu_order>6</wp:menu_order>
+        <wp:postmeta><wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key><wp:meta_value><![CDATA[post_type]]></wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key><wp:meta_value><![CDATA[page]]></wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key><wp:meta_value><![CDATA[6]]></wp:meta_value></wp:postmeta>
+        <category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+    </item>
+
+
+    <!-- ============================================================
+         PAGE: ACTIVITIES & NEWS — CHINA MARKET (Page 7)
+         ============================================================ -->
+    <item>
+        <title>Activities</title>
+        <link>https://amerigroupint.net/activities</link>
+        <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <guid isPermaLink="false">https://amerigroupint.net/?page_id=7</guid>
+        <description></description>
+        <content:encoded><![CDATA[
+<!-- wp:heading {"level":2} -->
+<h2>Activities &amp; News — Amerigroup in China (AG集团)</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Since establishing its Beijing office inside the Daxing International Hydrogen Energy Demonstration Zone in 2023, Amerigroup International (AG集团) has become the primary international bridge connecting China's leading hydrogen innovators with the Mexican and Latin American markets.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3} -->
+<h3>September 19, 2024 — Sangfor Technologies × Amerigroup Strategic Partnership</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Sangfor Technologies (深信服, SZSE: 300454) and Amerigroup International signed a mid-to-long-term strategic partnership at Sangfor's Shenzhen headquarters. The agreement covers cybersecurity, cloud computing, and AI services for Mexico's digital economy. Source: <a href="https://www.sangfor.com/news-and-press-release/sangfor-technologies-partners-with-amerigroup-to-develop-global-digital-economy">Sangfor.com</a></p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3} -->
+<h3>March 27, 2025 — HEIE Beijing: Hybot × Amerigroup Sign for Mexico Hydrogen Trucks</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>At HEIE 2025, Hybot and Amerigroup signed a strategic cooperation for long-haul heavy-duty logistics in Mexico. Reported by Gasgoo, SMM, Regional China Daily. Source: <a href="https://autonews.gasgoo.com/articles/market-industry/70036572">Gasgoo Daily</a></p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3} -->
+<h3>May 20, 2025 — China–Mexico Hydrogen Industry Bilateral Summit, Daxing</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Amerigroup co-hosted the China–Mexico Hydrogen Industry Bilateral Cooperation Summit at the Daxing International Hydrogen Energy Demonstration Zone. Three agreements signed including Daxing Zone × Amerigroup Strategic Cooperation Agreement. Reported by China Daily, Beijing Municipal Government portal. Sources: <a href="https://cn.chinadaily.com.cn/a/202505/23/WS682fcdfca3102053770348ad.html">China Daily</a> | <a href="https://www.beijing.gov.cn/ywdt/gqrd/202505/t20250526_4098029.html">Beijing.gov.cn</a></p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3} -->
+<h3>October 27–29, 2025 — 5th H₂-ECO International Hydrogen Ecosystem Conference</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Amerigroup International was an official supporting organisation for the 5th H₂-ECO Conference at Daxing. Mario Díaz, Amerigroup Chairman, delivered keynote remarks alongside UN former Under-Secretary-General Erik Solheim and Chinese Academy of Engineering Academician Peng Suping. Source: <a href="http://en.bast.net.cn/News/202511/t20251106_154465.html">BAST.net.cn</a></p>
+<!-- /wp:paragraph -->
+<!-- wp:heading {"level":3} -->
+<h3>November 8, 2025 — Hebei Electronic Information Industry Open Cooperation Conference</h3>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p>Vastgold Enterprise (宏鑫企业, Amerigroup's sister entity) signed cooperation agreements with Uganda's Tianlead Group and Hebei Sinosteel Digital Technology at the Hebei Province conference in Shijiazhuang. Mexican Embassy Counsellor Héctor J. Dorbecker attended.</p>
+<!-- /wp:paragraph -->
+        ]]></content:encoded>
+        <excerpt:encoded><![CDATA[A complete chronological record of Amerigroup International's (AG集团) activities, signings, conference appearances, and media coverage in the Chinese market, 2023–2025.]]></excerpt:encoded>
+        <wp:post_id>7</wp:post_id>
+        <wp:post_date><![CDATA[2025-04-17 00:00:00]]></wp:post_date>
+        <wp:post_date_gmt><![CDATA[2025-04-17 00:00:00]]></wp:post_date_gmt>
+        <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+        <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+        <wp:post_name><![CDATA[activities]]></wp:post_name>
+        <wp:status><![CDATA[publish]]></wp:status>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>6</wp:menu_order>
+        <wp:post_type><![CDATA[page]]></wp:post_type>
+        <wp:post_password><![CDATA[]]></wp:post_password>
+        <wp:is_sticky>0</wp:is_sticky>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+            <wp:meta_value><![CDATA[page-activities.php]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_yoast_wpseo_title]]></wp:meta_key>
+            <wp:meta_value><![CDATA[Activities & News — Amerigroup in China | AG集团 | Amerigroup International]]></wp:meta_value>
+        </wp:postmeta>
+        <wp:postmeta>
+            <wp:meta_key><![CDATA[_yoast_wpseo_metadesc]]></wp:meta_key>
+            <wp:meta_value><![CDATA[Complete record of Amerigroup International (AG集团) activities in China 2023-2025: Hybot signing at HEIE, China-Mexico Hydrogen Summit, Sangfor partnership, H2-ECO Conference, and the $3B Mexico joint development plan.]]></wp:meta_value>
+        </wp:postmeta>
+    </item>
+
+    <!-- Nav menu item for Activities -->
+    <item>
+        <title>Activities</title>
+        <wp:post_id>207</wp:post_id>
+        <wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+        <wp:status><![CDATA[publish]]></wp:status>
+        <wp:menu_order>7</wp:menu_order>
+        <wp:postmeta><wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key><wp:meta_value><![CDATA[post_type]]></wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key><wp:meta_value><![CDATA[page]]></wp:meta_value></wp:postmeta>
+        <wp:postmeta><wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key><wp:meta_value><![CDATA[7]]></wp:meta_value></wp:postmeta>
+        <category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+    </item>
+</channel>
+</rss>
