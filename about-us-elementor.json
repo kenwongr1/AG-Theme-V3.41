@@ -1,0 +1,472 @@
+{
+  "version": "0.4",
+  "title": "About Us",
+  "type": "page",
+  "content": [
+
+    {
+      "id": "abthero01",
+      "elType": "section",
+      "settings": {
+        "background_background": "video",
+        "background_video_link": "https://videos.pexels.com/video-files/5756264/5756264-uhd_3840_2160_30fps.mp4",
+        "background_image": { "url": "https://images.pexels.com/videos/5756264/australia-beach-broken-head-coast-5756264.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=1920", "id": "" },
+        "background_video_fallback": { "url": "https://images.pexels.com/videos/5756264/australia-beach-broken-head-coast-5756264.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=1920", "id": "" },
+        "height": "min-height",
+        "min_height": { "unit": "vh", "size": 55, "sizes": [] },
+        "content_position": "bottom",
+        "background_overlay_background": "classic",
+        "background_overlay_color": "rgba(0,20,55,0.55)",
+        "padding": { "unit": "px", "top": "60", "right": "0", "bottom": "60", "left": "0", "isLinked": false }
+      },
+      "elements": [
+        {
+          "id": "abtherocol",
+          "elType": "column",
+          "settings": { "_column_size": 100, "content_position": "bottom" },
+          "elements": [
+            {
+              "id": "abtbread",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p style=\"font-size:.85rem;opacity:.7;\"><a style=\"color:#ffffff;\" href=\"/\">Home</a> › About Us</p>",
+                "align": "left"
+              },
+              "elements": []
+            },
+            {
+              "id": "abtherohdg",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Leading the way through innovative policies and sustainable practices",
+                "header_size": "h1",
+                "align": "left",
+                "title_color": "#ffffff",
+                "typography_typography": "custom",
+                "typography_font_size": { "unit": "px", "size": 42, "sizes": [] },
+                "typography_font_weight": "700"
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "abtlogo01",
+      "elType": "section",
+      "settings": {
+        "padding": { "unit": "px", "top": "28", "right": "0", "bottom": "0", "left": "0", "isLinked": false }
+      },
+      "elements": [
+        {
+          "id": "abtlogocol",
+          "elType": "column",
+          "settings": { "_column_size": 100 },
+          "elements": [
+            {
+              "id": "abtlogoimg",
+              "elType": "widget",
+              "widgetType": "image",
+              "settings": {
+                "image": { "url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=91,fit=crop/ALpeJ1OkE5HqbP9Z/c843a283-57a5-4f59-b1c0-499c1b8f7c83_1_105_c-Yan1Z1O96WtnB58W.jpeg", "id": "" },
+                "image_size": "full",
+                "align": "left",
+                "width": { "unit": "px", "size": 280, "sizes": [] },
+                "link": { "url": "/", "is_external": false, "nofollow": false }
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "abtmission",
+      "elType": "section",
+      "settings": {
+        "padding": { "unit": "px", "top": "96", "right": "0", "bottom": "96", "left": "0", "isLinked": false },
+        "gap": "extended"
+      },
+      "elements": [
+        {
+          "id": "abtmiscol1",
+          "elType": "column",
+          "settings": { "_column_size": 50 },
+          "elements": [
+            {
+              "id": "abtmisimg",
+              "elType": "widget",
+              "widgetType": "image",
+              "settings": {
+                "image": { "url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=538,fit=crop/ALpeJ1OkE5HqbP9Z/multiculture-2-AQEpwgjRPZUvv6Gk.jpg", "id": "" },
+                "image_size": "full",
+                "width": { "unit": "%", "size": 100, "sizes": [] },
+                "border_radius": { "unit": "px", "top": "12", "right": "12", "bottom": "12", "left": "12", "isLinked": true }
+              },
+              "elements": []
+            }
+          ]
+        },
+        {
+          "id": "abtmiscol2",
+          "elType": "column",
+          "settings": { "_column_size": 50, "content_position": "middle" },
+          "elements": [
+            {
+              "id": "abtmislbl",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p><span style=\"display:inline-block;font-size:.75rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:#0056A0;background:#e8f2fc;padding:4px 14px;border-radius:20px;\">Our Mission</span></p>"
+              },
+              "elements": []
+            },
+            {
+              "id": "abtmishdg",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Dedicated to Leading the Transition to Clean Energy",
+                "header_size": "h2",
+                "typography_font_size": { "unit": "px", "size": 28, "sizes": [] },
+                "typography_font_weight": "700",
+                "_padding": { "unit": "px", "top": "0", "right": "0", "bottom": "16", "left": "0", "isLinked": false }
+              },
+              "elements": []
+            },
+            {
+              "id": "abtmistxt",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>At Amerigroup, we are dedicated to leading the transition to clean energy by providing zero-emission solutions for transportation and energy production. Our mission is to reduce greenhouse gas emissions, improve the quality of energy supply, and support sustainable regional development.</p>",
+                "typography_font_size": { "unit": "px", "size": 15, "sizes": [] }
+              },
+              "elements": []
+            },
+            {
+              "id": "abtmisstats",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<div style=\"display:grid;grid-template-columns:1fr 1fr;gap:24px;margin-top:32px;\"><div style=\"text-align:center;background:#e8f2fc;padding:28px 20px;border-radius:12px;\"><div style=\"font-size:2.2rem;font-weight:800;color:#0056A0;\">100<sup style=\"font-size:.9rem;\">+</sup></div><div style=\"font-size:.82rem;color:#555c6b;text-transform:uppercase;letter-spacing:.08em;margin-top:4px;\">Experience</div></div><div style=\"text-align:center;background:#e8f2fc;padding:28px 20px;border-radius:12px;\"><div style=\"font-size:2.2rem;font-weight:800;color:#0056A0;\">30<sup style=\"font-size:.9rem;\">+</sup></div><div style=\"font-size:.82rem;color:#555c6b;text-transform:uppercase;letter-spacing:.08em;margin-top:4px;\">Clients</div></div></div>"
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "abthist01",
+      "elType": "section",
+      "settings": {
+        "background_background": "classic",
+        "background_color": "#f7f9fc",
+        "padding": { "unit": "px", "top": "96", "right": "0", "bottom": "96", "left": "0", "isLinked": false },
+        "gap": "extended"
+      },
+      "elements": [
+        {
+          "id": "abthistcol1",
+          "elType": "column",
+          "settings": { "_column_size": 50, "content_position": "middle" },
+          "elements": [
+            {
+              "id": "abthistlbl",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p><span style=\"display:inline-block;font-size:.75rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:#0056A0;background:#e8f2fc;padding:4px 14px;border-radius:20px;\">Our History</span></p>"
+              },
+              "elements": []
+            },
+            {
+              "id": "abthisthdg",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "From Regional LNG Transporter to Global Green Energy Leader",
+                "header_size": "h2",
+                "typography_font_size": { "unit": "px", "size": 28, "sizes": [] },
+                "typography_font_weight": "700",
+                "_padding": { "unit": "px", "top": "0", "right": "0", "bottom": "16", "left": "0", "isLinked": false }
+              },
+              "elements": []
+            },
+            {
+              "id": "abthisttxt1",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>Amerigroup has grown from a regional LNG transporter to a global leader in green energy solutions. Over the past few decades, we have expanded our expertise to include hydrogen production, power grid modernization projects, and advanced clean energy infrastructure, consistently pushing the boundaries of innovation and sustainability. This legacy of growth fuels our commitment to meet today's climate and energy challenges with proven, integrated, and forward-thinking solutions.</p><p style=\"margin-top:16px;\">Amerigroup envisions a future where clean energy systems are seamlessly integrated across sectors, enabling sustainable industrial growth, resilient communities, and zero-emission transportation networks. Through relentless innovation, robust partnerships, and uncompromising operational excellence, we empower clients and governments to lead the global climate agenda.</p>",
+                "typography_font_size": { "unit": "px", "size": 15, "sizes": [] }
+              },
+              "elements": []
+            }
+          ]
+        },
+        {
+          "id": "abthistcol2",
+          "elType": "column",
+          "settings": { "_column_size": 50 },
+          "elements": [
+            {
+              "id": "abthistimg",
+              "elType": "widget",
+              "widgetType": "image",
+              "settings": {
+                "image": { "url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=550,fit=crop/ALpeJ1OkE5HqbP9Z/clean-energy-2-A0xV6DjeVJf1gxyv.jpg", "id": "" },
+                "image_size": "full",
+                "width": { "unit": "%", "size": 100, "sizes": [] },
+                "border_radius": { "unit": "px", "top": "12", "right": "12", "bottom": "12", "left": "12", "isLinked": true }
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "abtvals01",
+      "elType": "section",
+      "settings": {
+        "padding": { "unit": "px", "top": "96", "right": "0", "bottom": "96", "left": "0", "isLinked": false }
+      },
+      "elements": [
+        {
+          "id": "abtvalshdr",
+          "elType": "column",
+          "settings": { "_column_size": 100 },
+          "elements": [
+            {
+              "id": "abtvlbl",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p style=\"text-align:center;\"><span style=\"display:inline-block;font-size:.75rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:#0056A0;background:#e8f2fc;padding:4px 14px;border-radius:20px;\">Core Values</span></p>",
+                "align": "center"
+              },
+              "elements": []
+            },
+            {
+              "id": "abtvhdg",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Our Values",
+                "header_size": "h2",
+                "align": "center",
+                "typography_font_size": { "unit": "px", "size": 32, "sizes": [] },
+                "typography_font_weight": "700"
+              },
+              "elements": []
+            },
+            {
+              "id": "abtvlead",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p style=\"text-align:center;color:#555c6b;\">Leading the transition to clean energy with zero-emission solutions.</p>",
+                "align": "center",
+                "_padding": { "unit": "px", "top": "0", "right": "0", "bottom": "48", "left": "0", "isLinked": false }
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "abtvalsgrd",
+      "elType": "section",
+      "settings": {
+        "padding": { "unit": "px", "top": "0", "right": "0", "bottom": "96", "left": "0", "isLinked": false },
+        "gap": "extended"
+      },
+      "elements": [
+        {
+          "id": "abtv1col",
+          "elType": "column",
+          "settings": { "_column_size": 25 },
+          "elements": [
+            {
+              "id": "abtv1img",
+              "elType": "widget",
+              "widgetType": "image",
+              "settings": {
+                "image": { "url": "https://images.unsplash.com/photo-1541185933-ef5d8ed016c2?auto=format&fit=crop&w=503&h=360", "id": "" },
+                "image_size": "full",
+                "width": { "unit": "%", "size": 100, "sizes": [] },
+                "border_radius": { "unit": "px", "top": "12", "right": "12", "bottom": "0", "left": "0", "isLinked": false }
+              },
+              "elements": []
+            },
+            {
+              "id": "abtv1hdg",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": { "title": "Innovation", "header_size": "h3", "align": "center", "title_color": "#0056A0", "typography_font_size": { "unit": "px", "size": 16, "sizes": [] }, "_padding": { "unit": "px", "top": "16", "right": "0", "bottom": "6", "left": "0", "isLinked": false } },
+              "elements": []
+            },
+            {
+              "id": "abtv1txt",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": { "editor": "<p style=\"text-align:center;font-size:.88rem;color:#555c6b;\">Continuously pursuing new technologies and solutions</p>" },
+              "elements": []
+            }
+          ]
+        },
+        {
+          "id": "abtv2col",
+          "elType": "column",
+          "settings": { "_column_size": 25 },
+          "elements": [
+            {
+              "id": "abtv2img",
+              "elType": "widget",
+              "widgetType": "image",
+              "settings": {
+                "image": { "url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=550,fit=crop/ALpeJ1OkE5HqbP9Z/clean-energy-2-A0xV6DjeVJf1gxyv.jpg", "id": "" },
+                "image_size": "full",
+                "width": { "unit": "%", "size": 100, "sizes": [] },
+                "border_radius": { "unit": "px", "top": "12", "right": "12", "bottom": "0", "left": "0", "isLinked": false }
+              },
+              "elements": []
+            },
+            {
+              "id": "abtv2hdg",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": { "title": "Sustainability", "header_size": "h3", "align": "center", "title_color": "#0056A0", "typography_font_size": { "unit": "px", "size": 16, "sizes": [] }, "_padding": { "unit": "px", "top": "16", "right": "0", "bottom": "6", "left": "0", "isLinked": false } },
+              "elements": []
+            },
+            {
+              "id": "abtv2txt",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": { "editor": "<p style=\"text-align:center;font-size:.88rem;color:#555c6b;\">Committed to reducing environmental impact and promoting clean energy</p>" },
+              "elements": []
+            }
+          ]
+        },
+        {
+          "id": "abtv3col",
+          "elType": "column",
+          "settings": { "_column_size": 25 },
+          "elements": [
+            {
+              "id": "abtv3img",
+              "elType": "widget",
+              "widgetType": "image",
+              "settings": {
+                "image": { "url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=550,fit=crop/ALpeJ1OkE5HqbP9Z/multiculture-A1aJWMl2ROh5WwRb.jpg", "id": "" },
+                "image_size": "full",
+                "width": { "unit": "%", "size": 100, "sizes": [] },
+                "border_radius": { "unit": "px", "top": "12", "right": "12", "bottom": "0", "left": "0", "isLinked": false }
+              },
+              "elements": []
+            },
+            {
+              "id": "abtv3hdg",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": { "title": "Regional Development", "header_size": "h3", "align": "center", "title_color": "#0056A0", "typography_font_size": { "unit": "px", "size": 16, "sizes": [] }, "_padding": { "unit": "px", "top": "16", "right": "0", "bottom": "6", "left": "0", "isLinked": false } },
+              "elements": []
+            },
+            {
+              "id": "abtv3txt",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": { "editor": "<p style=\"text-align:center;font-size:.88rem;color:#555c6b;\">Enhancing local economies through sustainable energy projects and infrastructure</p>" },
+              "elements": []
+            }
+          ]
+        },
+        {
+          "id": "abtv4col",
+          "elType": "column",
+          "settings": { "_column_size": 25 },
+          "elements": [
+            {
+              "id": "abtv4img",
+              "elType": "widget",
+              "widgetType": "image",
+              "settings": {
+                "image": { "url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=550,fit=crop/ALpeJ1OkE5HqbP9Z/mountain-top-dWxboR07E3HBev7b.jpg", "id": "" },
+                "image_size": "full",
+                "width": { "unit": "%", "size": 100, "sizes": [] },
+                "border_radius": { "unit": "px", "top": "12", "right": "12", "bottom": "0", "left": "0", "isLinked": false }
+              },
+              "elements": []
+            },
+            {
+              "id": "abtv4hdg",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": { "title": "Excellence", "header_size": "h3", "align": "center", "title_color": "#0056A0", "typography_font_size": { "unit": "px", "size": 16, "sizes": [] }, "_padding": { "unit": "px", "top": "16", "right": "0", "bottom": "6", "left": "0", "isLinked": false } },
+              "elements": []
+            },
+            {
+              "id": "abtv4txt",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": { "editor": "<p style=\"text-align:center;font-size:.88rem;color:#555c6b;\">Striving for the highest standards in all our operations</p>" },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "abtcta01",
+      "elType": "section",
+      "settings": {
+        "background_background": "classic",
+        "background_color": "#0a3a8c",
+        "padding": { "unit": "px", "top": "72", "right": "0", "bottom": "72", "left": "0", "isLinked": false }
+      },
+      "elements": [
+        {
+          "id": "abtctacol",
+          "elType": "column",
+          "settings": { "_column_size": 100 },
+          "elements": [
+            {
+              "id": "abtctahdg",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": { "title": "Join Us in Building the Energy Systems of Tomorrow", "header_size": "h2", "align": "center", "title_color": "#ffffff", "typography_font_size": { "unit": "px", "size": 34, "sizes": [] }, "typography_font_weight": "700" },
+              "elements": []
+            },
+            {
+              "id": "abtctasub",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": { "title": "Leading provider of zero-emission energy solutions.", "header_size": "h5", "align": "center", "title_color": "rgba(255,255,255,0.8)", "typography_font_size": { "unit": "px", "size": 16, "sizes": [] }, "typography_font_weight": "400", "_padding": { "unit": "px", "top": "0", "right": "0", "bottom": "32", "left": "0", "isLinked": false } },
+              "elements": []
+            },
+            {
+              "id": "abtctaform",
+              "elType": "widget",
+              "widgetType": "shortcode",
+              "settings": { "shortcode": "[contact-form-7 id=\"about-us-contact\" title=\"About Us Contact\"]", "_padding": { "unit": "px", "top": "0", "right": "200", "bottom": "0", "left": "200", "isLinked": false } },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    }
+
+  ]
+}

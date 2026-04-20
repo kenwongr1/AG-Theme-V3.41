@@ -1,0 +1,114 @@
+{
+  "version": "0.4",
+  "title": "Projects",
+  "type": "page",
+  "content": [
+    {
+      "id": "prjhero01",
+      "elType": "section",
+      "settings": {
+        "background_background": "video",
+        "background_video_link": "https://videos.pexels.com/video-files/2078401/2078401-uhd_3840_2160_30fps.mp4",
+        "background_image": {"url":"https://images.pexels.com/videos/2078401/free-video-2078401.jpg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=1920","id":""},
+        "background_video_fallback": {"url":"https://images.pexels.com/videos/2078401/free-video-2078401.jpg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=1920","id":""},
+        "height": "min-height",
+        "min_height": {"unit":"vh","size":55,"sizes":[]},
+        "content_position": "bottom",
+        "background_overlay_background": "classic",
+        "background_overlay_color": "rgba(0,20,55,0.55)",
+        "padding": {"unit":"px","top":"60","right":"0","bottom":"60","left":"0","isLinked":false}
+      },
+      "elements": [{"id":"prjherocol","elType":"column","settings":{"_column_size":100,"content_position":"bottom"},"elements":[
+        {"id":"prjbread","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p style=\"font-size:.85rem;opacity:.7;\"><a style=\"color:#fff;\" href=\"/\">Home</a> › Projects</p>"},"elements":[]},
+        {"id":"prjherohdg","elType":"widget","widgetType":"heading","settings":{"title":"Sustainability Solutions","header_size":"h1","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":42,"sizes":[]},"typography_font_weight":"700"},"elements":[]},
+        {"id":"prjherosub","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p style=\"color:#fff;opacity:.88;font-size:1.05rem;\">Innovative solutions to zero-emission energy, efficient infrastructure, advanced water treatment, hydrogen and ammonia production, and power grid enhancements for environmental protection.</p>"},"elements":[]}
+      ]}]
+    },
+
+    {
+      "id": "prjhdr01",
+      "elType": "section",
+      "settings": {"padding":{"unit":"px","top":"96","right":"0","bottom":"48","left":"0","isLinked":false}},
+      "elements": [{"id":"prjhdrcol","elType":"column","settings":{"_column_size":100},"elements":[
+        {"id":"prjlbl","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p style=\"text-align:center;\"><span style=\"display:inline-block;font-size:.75rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:#0056A0;background:#e8f2fc;padding:4px 14px;border-radius:20px;\">Our Projects</span></p>","align":"center"},"elements":[]},
+        {"id":"prjhdg","elType":"widget","widgetType":"heading","settings":{"title":"Sustainability Solutions","header_size":"h1","align":"center","typography_font_size":{"unit":"px","size":32,"sizes":[]},"typography_font_weight":"700"},"elements":[]},
+        {"id":"prjlead","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p style=\"text-align:center;color:#555c6b;\">Innovative solutions to Zero-emission energy, efficient infrastructure, advanced water treatment, hydrogen and ammonia production, and power grid enhancements for environmental protection.</p>","align":"center"},"elements":[]}
+      ]}]
+    },
+
+    {
+      "id": "prjsolar",
+      "elType": "section",
+      "settings": {"padding":{"unit":"px","top":"48","right":"0","bottom":"96","left":"0","isLinked":false},"gap":"extended"},
+      "elements": [
+        {"id":"prjsolimg","elType":"column","settings":{"_column_size":50},"elements":[
+          {"id":"prjsolimgw","elType":"widget","widgetType":"image","settings":{"image":{"url":"https://images.unsplash.com/photo-1710075707220-103d36c97ec6?auto=format&fit=crop&w=612&h=564","id":""},"image_size":"full","width":{"unit":"%","size":100,"sizes":[]},"border_radius":{"unit":"px","top":"12","right":"12","bottom":"12","left":"12","isLinked":true}},"elements":[]}
+        ]},
+        {"id":"prjsoltxt","elType":"column","settings":{"_column_size":50,"content_position":"middle"},"elements":[
+          {"id":"prjsollbl","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p><span style=\"display:inline-block;font-size:.75rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:#0056A0;background:#e8f2fc;padding:4px 14px;border-radius:20px;\">Renewable Energy</span></p>"},"elements":[]},
+          {"id":"prjsolhdg","elType":"widget","widgetType":"heading","settings":{"title":"Solar and Wind Power Generation","header_size":"h2","title_color":"#0056A0","typography_font_size":{"unit":"px","size":24,"sizes":[]},"typography_font_weight":"700"},"elements":[]},
+          {"id":"prjsoldesc","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p>Amerigroup is at the forefront of integrating renewable energy sources into our clean energy solutions. Our solar and wind power generation projects are designed to harness the abundant natural resources available, converting them into sustainable electricity. This electricity is then used to produce hydrogen and ammonia, creating a continuous cycle of clean energy production. Our services include:</p><ul style=\"margin-top:16px;list-style:none;display:flex;flex-direction:column;gap:10px;\"><li style=\"padding:12px 16px;background:#f7f9fc;border-radius:6px;border-left:3px solid #0056A0;font-size:.9rem;color:#555c6b;\"><strong style=\"color:#1a1a2e;\">Solar Power Plants:</strong> Developing and managing large-scale solar power facilities that convert sunlight into electricity.</li><li style=\"padding:12px 16px;background:#f7f9fc;border-radius:6px;border-left:3px solid #0056A0;font-size:.9rem;color:#555c6b;\"><strong style=\"color:#1a1a2e;\">Wind Farms:</strong> Establishing and operating wind farms that capture wind energy and convert it into electrical power.</li><li style=\"padding:12px 16px;background:#f7f9fc;border-radius:6px;border-left:3px solid #0056A0;font-size:.9rem;color:#555c6b;\"><strong style=\"color:#1a1a2e;\">Electrolysis for Hydrogen Production:</strong> Using renewable electricity to split water into hydrogen and oxygen, providing a sustainable source of hydrogen.</li><li style=\"padding:12px 16px;background:#f7f9fc;border-radius:6px;border-left:3px solid #0056A0;font-size:.9rem;color:#555c6b;\"><strong style=\"color:#1a1a2e;\">Ammonia Production:</strong> Utilizing hydrogen produced from renewable sources to create ammonia, a key component for energy storage and agricultural applications.</li></ul>"},"elements":[]}
+        ]}
+      ]
+    },
+
+    {
+      "id": "prjgreen",
+      "elType": "section",
+      "settings": {"background_background":"classic","background_color":"#f7f9fc","padding":{"unit":"px","top":"96","right":"0","bottom":"96","left":"0","isLinked":false},"gap":"extended"},
+      "elements": [
+        {"id":"prjgrntxt","elType":"column","settings":{"_column_size":50,"content_position":"middle"},"elements":[
+          {"id":"prjgrnlbl","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p><span style=\"display:inline-block;font-size:.75rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:#0056A0;background:#e8f2fc;padding:4px 14px;border-radius:20px;\">Green Energy</span></p>"},"elements":[]},
+          {"id":"prjgrnhdg","elType":"widget","widgetType":"heading","settings":{"title":"Green Energy Solutions","header_size":"h2","title_color":"#0056A0","typography_font_size":{"unit":"px","size":24,"sizes":[]},"typography_font_weight":"700"},"elements":[]},
+          {"id":"prjgrndesc","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p style=\"margin-top:14px;\"><strong>Hydrogen Development:</strong> Leading in zero-emission hydrogen generation and production. Our state-of-the-art facilities and research initiatives focus on optimizing hydrogen production processes to meet growing demand.</p><p style=\"margin-top:14px;\"><strong>Hydrogen and Ammonia Production:</strong> Utilizing advanced technology for sustainable energy solutions. We produce high-purity hydrogen and ammonia for industrial, transportation, and energy storage applications.</p><p style=\"margin-top:14px;\"><strong>Power Grid Projects:</strong> Enhancing Mexico's national power grid with innovative engineering, ensuring stable and efficient energy distribution.</p>"},"elements":[]}
+        ]},
+        {"id":"prjgrnimg","elType":"column","settings":{"_column_size":50},"elements":[
+          {"id":"prjgrnimgw","elType":"widget","widgetType":"image","settings":{"image":{"url":"https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=553,fit=crop/ALpeJ1OkE5HqbP9Z/h2-truck-station-2-ALpoNRMgwRHjQ9bQ.jpg","id":""},"image_size":"full","width":{"unit":"%","size":100,"sizes":[]},"border_radius":{"unit":"px","top":"12","right":"12","bottom":"12","left":"12","isLinked":true}},"elements":[]}
+        ]}
+      ]
+    },
+
+    {
+      "id": "prjev01",
+      "elType": "section",
+      "settings": {"padding":{"unit":"px","top":"96","right":"0","bottom":"96","left":"0","isLinked":false},"gap":"extended"},
+      "elements": [
+        {"id":"prjevimg","elType":"column","settings":{"_column_size":50},"elements":[
+          {"id":"prjevimgw","elType":"widget","widgetType":"image","settings":{"image":{"url":"https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=553,fit=crop/ALpeJ1OkE5HqbP9Z/truck-1-YKbrnR54Jlc0OQzq.jpg","id":""},"image_size":"full","width":{"unit":"%","size":100,"sizes":[]},"border_radius":{"unit":"px","top":"12","right":"12","bottom":"12","left":"12","isLinked":true}},"elements":[]}
+        ]},
+        {"id":"prjevtxt","elType":"column","settings":{"_column_size":50,"content_position":"middle"},"elements":[
+          {"id":"prjevlbl","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p><span style=\"display:inline-block;font-size:.75rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:#0056A0;background:#e8f2fc;padding:4px 14px;border-radius:20px;\">E-Mobility</span></p>"},"elements":[]},
+          {"id":"prjevhdg","elType":"widget","widgetType":"heading","settings":{"title":"EV Conversion","header_size":"h2","title_color":"#0056A0","typography_font_size":{"unit":"px","size":24,"sizes":[]},"typography_font_weight":"700"},"elements":[]},
+          {"id":"prjevdesc","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p>We specialize in the conversion of Class 5 and 8 trucks from diesel to electric using cutting-edge e-axle technology. Our EV conversion services help reduce diesel consumption and pollution while significantly increasing travel range, up to 1,300 miles. Our notable clients include: Staples, UPS, FedEx, Kenworth etc.</p><p style=\"margin-top:14px;\"><strong>Long-Term Operational Benefits:</strong> Evaluating the financial and environmental benefits of hydrogen trucks and EV conversions, including cost savings, reduced maintenance expenses, and improved sustainability.</p>"},"elements":[]}
+        ]}
+      ]
+    },
+
+    {
+      "id": "prjlng01",
+      "elType": "section",
+      "settings": {"background_background":"classic","background_color":"#f7f9fc","padding":{"unit":"px","top":"96","right":"0","bottom":"96","left":"0","isLinked":false},"gap":"extended"},
+      "elements": [
+        {"id":"prjlngtxt","elType":"column","settings":{"_column_size":50,"content_position":"middle"},"elements":[
+          {"id":"prjlnglbl","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p><span style=\"display:inline-block;font-size:.75rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:#0056A0;background:#e8f2fc;padding:4px 14px;border-radius:20px;\">LNG & LPG</span></p>"},"elements":[]},
+          {"id":"prjlnghdg","elType":"widget","widgetType":"heading","settings":{"title":"LNG & LPG Infrastructure and Logistics","header_size":"h2","title_color":"#0056A0","typography_font_size":{"unit":"px","size":24,"sizes":[]},"typography_font_weight":"700"},"elements":[]},
+          {"id":"prjlngdesc","elType":"widget","widgetType":"text-editor","settings":{"editor":"<p>Amerigroup is a trusted partner in clean fuel mobility, energy transition logistics, and regasification infrastructure across the Americas and beyond. Our long-standing presence in U.S. – Mexico LNG and LPG corridors provides the foundation for scalable, reliable energy solutions:</p><p style=\"margin-top:10px;font-size:.9rem;color:#555c6b;\"><strong style=\"color:#1a1a2e;\">LNG and LPG Transportation:</strong> End-to-end transport solutions by ship, truck, ISO container, and pipeline, ensuring secure delivery across borders</p><p style=\"margin-top:10px;font-size:.9rem;color:#555c6b;\"><strong style=\"color:#1a1a2e;\">Onshore Regasification:</strong> Localized conversion of LNG back to natural gas for utilities, factories, and power grids</p><p style=\"margin-top:10px;font-size:.9rem;color:#555c6b;\"><strong style=\"color:#1a1a2e;\">FSRU:</strong> Rapid-deployment offshore terminals that provide LNG import and regas capacity without the need for land-based infrastructure</p><p style=\"margin-top:10px;font-size:.9rem;color:#555c6b;\"><strong style=\"color:#1a1a2e;\">Marine Bunkering:</strong> Supplying LNG as a cleaner fuel for maritime fleets</p><p style=\"margin-top:10px;font-size:.9rem;color:#555c6b;\"><strong style=\"color:#1a1a2e;\">Comprehensive LNG Chain Management:</strong> From export and storage to regasification and dispatch, we offer full-scope LNG handling</p><p style=\"margin-top:10px;font-size:.9rem;color:#555c6b;\"><strong style=\"color:#1a1a2e;\">Small-Scale Distribution:</strong> Delivering LNG and LPG to off-grid, rural, or remote industrial sites</p><p style=\"margin-top:20px;padding:16px;background:#e8f2fc;border-radius:8px;font-size:.88rem;font-style:italic;color:#003d73;\">The U.S. Department of Energy (DOE) has approved AmerigroupLNG to export approximately 4.6 billion cubic feet (Bcf) of liquefied natural gas (LNG) from the United States. This significant achievement underscores our commitment to providing high-quality energy solutions and expanding our global reach.</p>"},"elements":[]}
+        ]},
+        {"id":"prjlngimg","elType":"column","settings":{"_column_size":50},"elements":[
+          {"id":"prjlngimgw","elType":"widget","widgetType":"image","settings":{"image":{"url":"https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=553,fit=crop/ALpeJ1OkE5HqbP9Z/lng-vessel-3-mePnoz6ER1f3VkZr.webp","id":""},"image_size":"full","width":{"unit":"%","size":100,"sizes":[]},"border_radius":{"unit":"px","top":"12","right":"12","bottom":"12","left":"12","isLinked":true}},"elements":[]}
+        ]}
+      ]
+    },
+
+    {
+      "id": "prjcta01",
+      "elType": "section",
+      "settings": {"background_background":"classic","background_color":"#0a3a8c","padding":{"unit":"px","top":"72","right":"0","bottom":"72","left":"0","isLinked":false}},
+      "elements": [{"id":"prjctacol","elType":"column","settings":{"_column_size":100},"elements":[
+        {"id":"prjctahdg","elType":"widget","widgetType":"heading","settings":{"title":"Join Us in Building the Energy Systems of Tomorrow","header_size":"h2","align":"center","title_color":"#ffffff","typography_font_size":{"unit":"px","size":34,"sizes":[]},"typography_font_weight":"700"},"elements":[]},
+        {"id":"prjctasub","elType":"widget","widgetType":"heading","settings":{"title":"Leading provider of zero-emission energy solutions.","header_size":"h5","align":"center","title_color":"rgba(255,255,255,0.8)","typography_font_size":{"unit":"px","size":16,"sizes":[]},"typography_font_weight":"400","_padding":{"unit":"px","top":"0","right":"0","bottom":"32","left":"0","isLinked":false}},"elements":[]},
+        {"id":"prjctaform","elType":"widget","widgetType":"shortcode","settings":{"shortcode":"[contact-form-7 id=\"projects-contact\" title=\"Projects Contact\"]","_padding":{"unit":"px","top":"0","right":"200","bottom":"0","left":"200","isLinked":false}},"elements":[]}
+      ]}]
+    }
+  ]
+}

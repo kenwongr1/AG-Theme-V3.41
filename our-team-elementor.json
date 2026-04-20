@@ -1,0 +1,665 @@
+{
+  "version": "0.4",
+  "title": "Our Team",
+  "type": "page",
+  "content": [
+
+    {
+      "id": "hero0001",
+      "elType": "section",
+      "settings": {
+        "background_background": "video",
+        "background_video_link": "https://videos.pexels.com/video-files/3255275/3255275-uhd_3840_2160_25fps.mp4",
+        "background_image": {
+          "url": "https://images.pexels.com/videos/3255275/free-video-3255275.jpg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=1920",
+          "id": ""
+        },
+        "background_video_fallback": {
+          "url": "https://images.pexels.com/videos/3255275/free-video-3255275.jpg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=1920",
+          "id": ""
+        },
+        "height": "min-height",
+        "min_height": { "unit": "vh", "size": 55, "sizes": [] },
+        "content_position": "middle",
+        "background_overlay_background": "classic",
+        "background_overlay_color": "rgba(0,20,60,0.55)",
+        "padding": { "unit": "px", "top": "60", "right": "0", "bottom": "60", "left": "0", "isLinked": false }
+      },
+      "elements": [
+        {
+          "id": "herocol1",
+          "elType": "column",
+          "settings": { "_column_size": 100, "content_position": "middle" },
+          "elements": [
+            {
+              "id": "herohdg1",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Our Team",
+                "header_size": "h1",
+                "align": "center",
+                "title_color": "#ffffff",
+                "typography_typography": "custom",
+                "typography_font_size": { "unit": "px", "size": 52, "sizes": [] },
+                "typography_font_weight": "700"
+              },
+              "elements": []
+            },
+            {
+              "id": "herotext1",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p style=\"text-align:center;color:#ffffff;font-size:1rem;\"><a style=\"color:#ffffff;\" href=\"/\">Home</a> › Our Team</p>",
+                "align": "center"
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "intro001",
+      "elType": "section",
+      "settings": {
+        "background_background": "classic",
+        "background_color": "#f4f7fb",
+        "padding": { "unit": "px", "top": "48", "right": "0", "bottom": "48", "left": "0", "isLinked": false }
+      },
+      "elements": [
+        {
+          "id": "introcol1",
+          "elType": "column",
+          "settings": { "_column_size": 100 },
+          "elements": [
+            {
+              "id": "introtext",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p style=\"text-align:center;font-size:1.1rem;\"><em>thrives on individuality and innovation.</em>&nbsp;<strong>We bring firsthand experience from collaborations with industry-leading clients and premier business partners, underscoring our commitment to excellence.</strong></p><p style=\"text-align:center;font-size:1.2rem;font-weight:700;font-style:italic;color:#0a3a8c;\">Our Team</p><ul style=\"list-style:none;display:flex;flex-direction:column;gap:10px;text-align:center;margin:0 auto;\"><li style=\"font-style:italic;font-weight:600;\">from engineering and project management to business development and operations</li><li style=\"font-style:italic;font-weight:600;\">ensuring every unique perspective drives our success in advancing sustainable energy solutions</li></ul>",
+                "align": "center",
+                "_padding": { "unit": "px", "top": "0", "right": "120", "bottom": "0", "left": "120", "isLinked": false }
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": "teamrow1",
+      "elType": "section",
+      "settings": {
+        "padding": { "unit": "px", "top": "56", "right": "0", "bottom": "0", "left": "0", "isLinked": false },
+        "gap": "extended"
+      },
+      "elements": [
+
+        {
+          "id": "tm1col",
+          "elType": "column",
+          "settings": { "_column_size": 25 },
+          "elements": [
+            {
+              "id": "tm1img",
+              "elType": "widget",
+              "widgetType": "image",
+              "settings": {
+                "image": { "url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=372,fit=crop/ALpeJ1OkE5HqbP9Z/gerardo-AMq1wbMMPPCw9jMO.png", "id": "" },
+                "image_size": "full",
+                "align": "center",
+                "width": { "unit": "%", "size": 100, "sizes": [] },
+                "border_radius": { "unit": "px", "top": "10", "right": "10", "bottom": "10", "left": "10", "isLinked": true }
+              },
+              "elements": []
+            },
+            {
+              "id": "tm1name",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Mr. Gerardo Payán Ramos",
+                "header_size": "h3",
+                "align": "center",
+                "title_color": "#0a3a8c",
+                "typography_font_size": { "unit": "px", "size": 17, "sizes": [] },
+                "typography_font_weight": "700",
+                "_padding": { "unit": "px", "top": "16", "right": "0", "bottom": "4", "left": "0", "isLinked": false }
+              },
+              "elements": []
+            },
+            {
+              "id": "tm1role",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "President, Amerigroup International | President & Founder, AmerigroupLNG | Founder of AmeriGas Propane S.A. de C.V.",
+                "header_size": "h5",
+                "align": "center",
+                "title_color": "#2563eb",
+                "typography_font_size": { "unit": "px", "size": 13, "sizes": [] },
+                "typography_font_weight": "600",
+                "_padding": { "unit": "px", "top": "0", "right": "0", "bottom": "12", "left": "0", "isLinked": false }
+              },
+              "elements": []
+            },
+            {
+              "id": "tm1bio",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>Mr. Gerardo Payán Ramos serves as President in Amerigroup International, Founder and CEO of AmerigroupLNG, as well as the founder of AmeriGas Propane S.A. de C.V. in Mexico. With over 15 years in the energy industry, he is steering these companies toward becoming leading global providers of integrated energy solutions. His journey began as a consultant for Coca-Cola bottling companies across Latin America. Specializing in government relations and strategic partnerships between Mexico and the USA, Gerardo has become an authority in emerging energy fields — ranging from LNG and hydrogen to solar, wind, and EV conversion.</p>",
+                "typography_font_size": { "unit": "px", "size": 14, "sizes": [] }
+              },
+              "elements": []
+            }
+          ]
+        },
+
+        {
+          "id": "tm2col",
+          "elType": "column",
+          "settings": { "_column_size": 25 },
+          "elements": [
+            {
+              "id": "tm2img",
+              "elType": "widget",
+              "widgetType": "image",
+              "settings": {
+                "image": { "url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=498,fit=crop/ALpeJ1OkE5HqbP9Z/2a558d56-d2fc-4d43-bfb4-919e12915567_1_105_c-Y4LD2xoO5ESJDEXB.jpeg", "id": "" },
+                "image_size": "full",
+                "align": "center",
+                "width": { "unit": "%", "size": 100, "sizes": [] },
+                "border_radius": { "unit": "px", "top": "10", "right": "10", "bottom": "10", "left": "10", "isLinked": true }
+              },
+              "elements": []
+            },
+            {
+              "id": "tm2name",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Mr. Ken Wong",
+                "header_size": "h3",
+                "align": "center",
+                "title_color": "#0a3a8c",
+                "typography_font_size": { "unit": "px", "size": 17, "sizes": [] },
+                "typography_font_weight": "700",
+                "_padding": { "unit": "px", "top": "16", "right": "0", "bottom": "4", "left": "0", "isLinked": false }
+              },
+              "elements": []
+            },
+            {
+              "id": "tm2role",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Corporate Vice President",
+                "header_size": "h5",
+                "align": "center",
+                "title_color": "#2563eb",
+                "typography_font_size": { "unit": "px", "size": 13, "sizes": [] },
+                "typography_font_weight": "600",
+                "_padding": { "unit": "px", "top": "0", "right": "0", "bottom": "12", "left": "0", "isLinked": false }
+              },
+              "elements": []
+            },
+            {
+              "id": "tm2bio",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>Mr. Ken Wong, a Canadian-Chinese entrepreneur, serves as Corporate Vice President and Co-Founder of Amerigroup International, where he directs the company's global strategy and operations. His entrepreneurial journey spans commodity trading and mining across Canada, the USA, and Mexico. Notably, in 2012, he became the first Canadian-Chinese exporter of iron ore from Mexico to China — a milestone recognized by SGS. Since 2016, he has played a significant role in Belt and Road projects across Africa, contributing to initiatives in Gabon, Guinea, Cameroon, South Africa, and Morocco.</p>",
+                "typography_font_size": { "unit": "px", "size": 14, "sizes": [] }
+              },
+              "elements": []
+            }
+          ]
+        },
+
+        {
+          "id": "tm3col",
+          "elType": "column",
+          "settings": { "_column_size": 25 },
+          "elements": [
+            {
+              "id": "tm3img",
+              "elType": "widget",
+              "widgetType": "image",
+              "settings": {
+                "image": { "url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=379,fit=crop/ALpeJ1OkE5HqbP9Z/james-mp8Wovy5vRhoO2zJ.png", "id": "" },
+                "image_size": "full",
+                "align": "center",
+                "width": { "unit": "%", "size": 100, "sizes": [] },
+                "border_radius": { "unit": "px", "top": "10", "right": "10", "bottom": "10", "left": "10", "isLinked": true }
+              },
+              "elements": []
+            },
+            {
+              "id": "tm3name",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Mr. James Wang",
+                "header_size": "h3",
+                "align": "center",
+                "title_color": "#0a3a8c",
+                "typography_font_size": { "unit": "px", "size": 17, "sizes": [] },
+                "typography_font_weight": "700",
+                "_padding": { "unit": "px", "top": "16", "right": "0", "bottom": "4", "left": "0", "isLinked": false }
+              },
+              "elements": []
+            },
+            {
+              "id": "tm3role",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "CEO (China)",
+                "header_size": "h5",
+                "align": "center",
+                "title_color": "#2563eb",
+                "typography_font_size": { "unit": "px", "size": 13, "sizes": [] },
+                "typography_font_weight": "600",
+                "_padding": { "unit": "px", "top": "0", "right": "0", "bottom": "12", "left": "0", "isLinked": false }
+              },
+              "elements": []
+            },
+            {
+              "id": "tm3bio",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>Mr. James Wang, CEO for China at Amerigroup International, steers the company's strategic vision and operations in the Chinese market. With over 15 years of experience at Fortune 500 companies and leading Chinese corporations, he excels in managing government relations and partnering with state-owned enterprises. He has overseen transactions exceeding $10 billion and played a key role in Belt and Road projects across several African countries.</p>",
+                "typography_font_size": { "unit": "px", "size": 14, "sizes": [] }
+              },
+              "elements": []
+            }
+          ]
+        },
+
+        {
+          "id": "tm4col",
+          "elType": "column",
+          "settings": { "_column_size": 25 },
+          "elements": [
+            {
+              "id": "tm4img",
+              "elType": "widget",
+              "widgetType": "image",
+              "settings": {
+                "image": { "url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=372,fit=crop/ALpeJ1OkE5HqbP9Z/robert-YKb3v622g7cVO74g.png", "id": "" },
+                "image_size": "full",
+                "align": "center",
+                "width": { "unit": "%", "size": 100, "sizes": [] },
+                "border_radius": { "unit": "px", "top": "10", "right": "10", "bottom": "10", "left": "10", "isLinked": true }
+              },
+              "elements": []
+            },
+            {
+              "id": "tm4name",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Mr. Roberto Compeán Woodworth",
+                "header_size": "h3",
+                "align": "center",
+                "title_color": "#0a3a8c",
+                "typography_font_size": { "unit": "px", "size": 17, "sizes": [] },
+                "typography_font_weight": "700",
+                "_padding": { "unit": "px", "top": "16", "right": "0", "bottom": "4", "left": "0", "isLinked": false }
+              },
+              "elements": []
+            },
+            {
+              "id": "tm4role",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "CFO (Mexico), Amerigroup International | CFO & Co-founder, AmerigroupLNG",
+                "header_size": "h5",
+                "align": "center",
+                "title_color": "#2563eb",
+                "typography_font_size": { "unit": "px", "size": 13, "sizes": [] },
+                "typography_font_weight": "600",
+                "_padding": { "unit": "px", "top": "0", "right": "0", "bottom": "12", "left": "0", "isLinked": false }
+              },
+              "elements": []
+            },
+            {
+              "id": "tm4bio",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>Mr. Roberto Compeán Woodworth, CFO of Amerigroup International for the Mexico region and co-founder of AmerigroupLNG, drives the company's financial strategy. His leadership includes Chief Sales Officer at Mexico's National Lottery and CFO for Bestel and Cablevision Monterrey — key Televisa subsidiaries. His tenure at BBVA Bank, including advanced training in Madrid, solidified his expertise in finance. He earned his Bachelor's in Business Administration from ITAM University.</p>",
+                "typography_font_size": { "unit": "px", "size": 14, "sizes": [] }
+              },
+              "elements": []
+            }
+          ]
+        }
+
+      ]
+    },
+
+    {
+      "id": "teamrow2",
+      "elType": "section",
+      "settings": {
+        "padding": { "unit": "px", "top": "40", "right": "0", "bottom": "56", "left": "0", "isLinked": false },
+        "gap": "extended"
+      },
+      "elements": [
+
+        {
+          "id": "tm5col",
+          "elType": "column",
+          "settings": { "_column_size": 25 },
+          "elements": [
+            {
+              "id": "tm5img",
+              "elType": "widget",
+              "widgetType": "image",
+              "settings": {
+                "image": { "url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=384,fit=crop/ALpeJ1OkE5HqbP9Z/peter-d951PKBvrNHxeQ8g.png", "id": "" },
+                "image_size": "full",
+                "align": "center",
+                "width": { "unit": "%", "size": 100, "sizes": [] },
+                "border_radius": { "unit": "px", "top": "10", "right": "10", "bottom": "10", "left": "10", "isLinked": true }
+              },
+              "elements": []
+            },
+            {
+              "id": "tm5name",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Mr. Peter Pang",
+                "header_size": "h3",
+                "align": "center",
+                "title_color": "#0a3a8c",
+                "typography_font_size": { "unit": "px", "size": 17, "sizes": [] },
+                "typography_font_weight": "700",
+                "_padding": { "unit": "px", "top": "16", "right": "0", "bottom": "4", "left": "0", "isLinked": false }
+              },
+              "elements": []
+            },
+            {
+              "id": "tm5role",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "CFO (CGA/CFA) Global",
+                "header_size": "h5",
+                "align": "center",
+                "title_color": "#2563eb",
+                "typography_font_size": { "unit": "px", "size": 13, "sizes": [] },
+                "typography_font_weight": "600",
+                "_padding": { "unit": "px", "top": "0", "right": "0", "bottom": "12", "left": "0", "isLinked": false }
+              },
+              "elements": []
+            },
+            {
+              "id": "tm5bio",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>Mr. Peter Pang, CFO of Amerigroup International, is a distinguished financial leader with over 30 years of industry experience. As a former partner at KPMG Vancouver and a Chartered Professional Accountant in Canada, he brings deep expertise in auditing, financial management, and mergers and acquisitions. His strategic leadership in managing multi-billion-dollar enterprises has earned him a global reputation.</p>",
+                "typography_font_size": { "unit": "px", "size": 14, "sizes": [] }
+              },
+              "elements": []
+            }
+          ]
+        },
+
+        {
+          "id": "tm6col",
+          "elType": "column",
+          "settings": { "_column_size": 25 },
+          "elements": [
+            {
+              "id": "tm6img",
+              "elType": "widget",
+              "widgetType": "image",
+              "settings": {
+                "image": { "url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=372,fit=crop/ALpeJ1OkE5HqbP9Z/victor-A1aPlwDLWMu8kvkD.png", "id": "" },
+                "image_size": "full",
+                "align": "center",
+                "width": { "unit": "%", "size": 100, "sizes": [] },
+                "border_radius": { "unit": "px", "top": "10", "right": "10", "bottom": "10", "left": "10", "isLinked": true }
+              },
+              "elements": []
+            },
+            {
+              "id": "tm6name",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Mr. Victor Manuel Villanueva Rivera",
+                "header_size": "h3",
+                "align": "center",
+                "title_color": "#0a3a8c",
+                "typography_font_size": { "unit": "px", "size": 17, "sizes": [] },
+                "typography_font_weight": "700",
+                "_padding": { "unit": "px", "top": "16", "right": "0", "bottom": "4", "left": "0", "isLinked": false }
+              },
+              "elements": []
+            },
+            {
+              "id": "tm6role",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Managing Director",
+                "header_size": "h5",
+                "align": "center",
+                "title_color": "#2563eb",
+                "typography_font_size": { "unit": "px", "size": 13, "sizes": [] },
+                "typography_font_weight": "600",
+                "_padding": { "unit": "px", "top": "0", "right": "0", "bottom": "12", "left": "0", "isLinked": false }
+              },
+              "elements": []
+            },
+            {
+              "id": "tm6bio",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>Mr. Victor Manuel Villanueva Rivera is a seasoned executive with over 40 years in the automotive industry. Previous roles include Managing Director at Jetour Motors and FIAT Mexico, Sales Director at Hertz-AVASA, and CEO & Managing Director of Mitsubishi Motors Mexico. He holds a Master's degree in Quality Engineering and a Bachelor's in Industrial Engineering.</p>",
+                "typography_font_size": { "unit": "px", "size": 14, "sizes": [] }
+              },
+              "elements": []
+            }
+          ]
+        },
+
+        {
+          "id": "tm7col",
+          "elType": "column",
+          "settings": { "_column_size": 25 },
+          "elements": [
+            {
+              "id": "tm7img",
+              "elType": "widget",
+              "widgetType": "image",
+              "settings": {
+                "image": { "url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=372,fit=crop/ALpeJ1OkE5HqbP9Z/vanessa-mePxXv6jlrub690Q.png", "id": "" },
+                "image_size": "full",
+                "align": "center",
+                "width": { "unit": "%", "size": 100, "sizes": [] },
+                "border_radius": { "unit": "px", "top": "10", "right": "10", "bottom": "10", "left": "10", "isLinked": true }
+              },
+              "elements": []
+            },
+            {
+              "id": "tm7name",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Ms. Vanessa Muñoz",
+                "header_size": "h3",
+                "align": "center",
+                "title_color": "#0a3a8c",
+                "typography_font_size": { "unit": "px", "size": 17, "sizes": [] },
+                "typography_font_weight": "700",
+                "_padding": { "unit": "px", "top": "16", "right": "0", "bottom": "4", "left": "0", "isLinked": false }
+              },
+              "elements": []
+            },
+            {
+              "id": "tm7role",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Business Development Director",
+                "header_size": "h5",
+                "align": "center",
+                "title_color": "#2563eb",
+                "typography_font_size": { "unit": "px", "size": 13, "sizes": [] },
+                "typography_font_weight": "600",
+                "_padding": { "unit": "px", "top": "0", "right": "0", "bottom": "12", "left": "0", "isLinked": false }
+              },
+              "elements": []
+            },
+            {
+              "id": "tm7bio",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>Ms. Vanessa Muñoz acts a key role in developing new business opportunities. She has successfully owned and operated various businesses in Mexico and the U.S. Previously Real Estate Commercial and Leasing Manager for Liverpool, and at Alsea facilitated strategic negotiations with major developers. Holds a Bachelor's in International Relations from Tecnologico de Monterrey.</p>",
+                "typography_font_size": { "unit": "px", "size": 14, "sizes": [] }
+              },
+              "elements": []
+            }
+          ]
+        },
+
+        {
+          "id": "tm8col",
+          "elType": "column",
+          "settings": { "_column_size": 25 },
+          "elements": [
+            {
+              "id": "tm8img",
+              "elType": "widget",
+              "widgetType": "image",
+              "settings": {
+                "image": { "url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=372,fit=crop/ALpeJ1OkE5HqbP9Z/livy-Awv45MBG40IBBwLM.png", "id": "" },
+                "image_size": "full",
+                "align": "center",
+                "width": { "unit": "%", "size": 100, "sizes": [] },
+                "border_radius": { "unit": "px", "top": "10", "right": "10", "bottom": "10", "left": "10", "isLinked": true }
+              },
+              "elements": []
+            },
+            {
+              "id": "tm8name",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Ms. Liviere Galván",
+                "header_size": "h3",
+                "align": "center",
+                "title_color": "#0a3a8c",
+                "typography_font_size": { "unit": "px", "size": 17, "sizes": [] },
+                "typography_font_weight": "700",
+                "_padding": { "unit": "px", "top": "16", "right": "0", "bottom": "4", "left": "0", "isLinked": false }
+              },
+              "elements": []
+            },
+            {
+              "id": "tm8role",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Commercial Director",
+                "header_size": "h5",
+                "align": "center",
+                "title_color": "#2563eb",
+                "typography_font_size": { "unit": "px", "size": 13, "sizes": [] },
+                "typography_font_weight": "600",
+                "_padding": { "unit": "px", "top": "0", "right": "0", "bottom": "12", "left": "0", "isLinked": false }
+              },
+              "elements": []
+            },
+            {
+              "id": "tm8bio",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>Ms. Liviere Galván transitioned from Sales Manager to Commercial Director, driving the company's sales strategy, new business development, and international client expansion. Prior to Amerigroup, she served as Director of Sales and Marketing at Dronamex for over five years. Holds both an MSc and Bachelor's degree in Marketing.</p>",
+                "typography_font_size": { "unit": "px", "size": 14, "sizes": [] }
+              },
+              "elements": []
+            }
+          ]
+        }
+
+      ]
+    },
+
+    {
+      "id": "ctasec1",
+      "elType": "section",
+      "settings": {
+        "background_background": "classic",
+        "background_color": "#0a3a8c",
+        "padding": { "unit": "px", "top": "72", "right": "0", "bottom": "72", "left": "0", "isLinked": false }
+      },
+      "elements": [
+        {
+          "id": "ctacol1",
+          "elType": "column",
+          "settings": { "_column_size": 100 },
+          "elements": [
+            {
+              "id": "ctahdg",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Join Us in Building the Energy Systems of Tomorrow",
+                "header_size": "h2",
+                "align": "center",
+                "title_color": "#ffffff",
+                "typography_font_size": { "unit": "px", "size": 34, "sizes": [] },
+                "typography_font_weight": "700"
+              },
+              "elements": []
+            },
+            {
+              "id": "ctasubhdg",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Leading provider of zero-emission energy solutions.",
+                "header_size": "h5",
+                "align": "center",
+                "title_color": "rgba(255,255,255,0.8)",
+                "typography_font_size": { "unit": "px", "size": 16, "sizes": [] },
+                "typography_font_weight": "400",
+                "_padding": { "unit": "px", "top": "0", "right": "0", "bottom": "32", "left": "0", "isLinked": false }
+              },
+              "elements": []
+            },
+            {
+              "id": "ctaform",
+              "elType": "widget",
+              "widgetType": "shortcode",
+              "settings": {
+                "shortcode": "[contact-form-7 id=\"our-team-contact\" title=\"Our Team Contact\"]",
+                "_padding": { "unit": "px", "top": "0", "right": "200", "bottom": "0", "left": "200", "isLinked": false }
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    }
+
+  ]
+}
